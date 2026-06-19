@@ -75,4 +75,4 @@ You can find the architecture of the project in the following image:
 - [@Paul Gervais](https://github.com/gagonlaire) - Initial work - Client/Server
 - [@Florian Garnier](https://github.com/Suolumi) - ECS - Client
 - [@Julien Hennion](https://github.com/Yusisako) - Entity System - Client
-- [@Guilhem Jéhanno](https://github.com/Guigui1901) - Entity System - Client
+- [@mflr0](https://github.com/mflr01901) - Entity System - Client

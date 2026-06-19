@@ -1,5 +1,5 @@
 //
-// Created by Guilhem Jéhanno on 04/02/2023.
+// Created by mflr0 on 04/02/2023.
 //
 
 #ifndef R_TYPE_POWERUP_H
